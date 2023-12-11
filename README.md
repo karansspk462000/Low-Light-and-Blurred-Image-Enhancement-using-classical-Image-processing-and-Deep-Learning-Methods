@@ -126,14 +126,16 @@ Here are some related projects
 (https://github.com/sovit-123/image-deblurring-using-deep-learning)
 
 
-## Authors
+## Contributor
 
 - [@sohampadhye007](https://github.com/sohampadhye007)
-- [@karansspk](https://github.com/karansspk)
 
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at sohampadhye1998@gmail.com, karansspk@gmail.com
+If you have any feedback, please reach out to us at 
 
+1. karansspk@gmail.com
+
+2. sohampadhye1998@gmail.com
